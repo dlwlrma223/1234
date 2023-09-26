@@ -1,0 +1,18 @@
+.photo {
+  width: 280px;
+  height: 300px;
+  margin-bottom: 20px;
+}
+
+.name {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.all {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
